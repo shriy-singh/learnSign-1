@@ -11,7 +11,7 @@ learnSign uses artificial intelligence to provide instant feedback on hand sign 
 # Lessons & Quizzes
 The student can learn through our lessons and test their skills with our quizzes. The lessons are easy to understand and the learner can learn kinesthetically with augmented reality. The quizzes use machine learning to detect the signs and provide real-time feedback.
 
-# riends & LeaderBoard
+# Friends & LeaderBoard
 We wanted to make sure you can interact and practice with your friends through video call. We believe that socializing and friends is a part of what makes learning fun. The leaderboard is a competitive aspect to encourage children to do their very best.
 
 # Badges & Prizes
